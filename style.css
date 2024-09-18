@@ -23,3 +23,44 @@
     background-size: cover;
     background-attachment: fixed;
 }
+
+iframe {
+    width: 50vw;
+    height: 50vh;
+    margin: 40px;
+}
+
+li {
+    font-size: 2vw;
+    color: white;
+}
+
+#headings {
+    font-size: 10vw;
+    color: white;
+}
+
+#resortstuff {
+    color: white;
+    font-size: 2vw;
+}
+
+p {
+    font-family:sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    -webkit-text-stroke-width:1px;
+    -webkit-text-stroke-color: black;
+  }
+
+  .carousel-inner {
+    height: 100%;
+  }
+
+  #carpic {
+    width: 40vw;
+    height: 30vh;
+  }
