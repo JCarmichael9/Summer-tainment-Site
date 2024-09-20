@@ -31,13 +31,17 @@ iframe {
 }
 
 li {
-    font-size: 2vw;
     color: white;
+    font-family: "router", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
-
 #headings {
     font-size: 10vw;
     color: white;
+    font-family: "pain-de-mie", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 #resortstuff {
@@ -54,13 +58,27 @@ p {
     color: white;
     -webkit-text-stroke-width:1px;
     -webkit-text-stroke-color: black;
-  }
+}
 
-  .carousel-inner {
+.carousel-inner {
     height: 100%;
-  }
+}
 
-  #carpic {
+#carpic {
     width: 40vw;
     height: 30vh;
-  }
+}
+
+a {
+    font-family: "pain-de-mie", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+footer {
+    color: #040a3d;
+    font-family: "router", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 0px;
+}
